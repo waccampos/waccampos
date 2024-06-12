@@ -25,7 +25,7 @@ Estou sempre em busca de novos conhecimentos e habilidades, com o objetivo de co
 
 #### Tecnologias que Eu Gosto :thumbsup:
 
-<div style="display: inline_block;gap:5px">
+<div style="display: flex;gap: 10px">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black">
     <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -38,35 +38,24 @@ Estou sempre em busca de novos conhecimentos e habilidades, com o objetivo de co
 #### Tecnologias que Eu Amo :heart:
 
 <div style="display: flex;flex-wrap:wrap;gap:10px">
-    <img  align="center" alt="java" src="https://img.shields.io/badge/Java-ca0000?style=for-the-badge&logo=oracle&logoColor=white" style="margin-bottom: 10px;">
-    <img  align="center" alt="spring boot" src="https://img.shields.io/badge/spring boot-239120?style=for-the-badge&logo=spring&logoColor=white" style="margin-bottom: 10px;">
-    <img align="center" alt="Java Script" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-bottom: 10px;">
-    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-316192?style=for-the-badge&logo=TypeScript&logoColor=white" style="margin-bottom: 10px;">
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-316192?style=for-the-badge&logo=React&logoColor=white" style="margin-bottom: 10px;">
-    <img align="center" alt="React native" src="https://img.shields.io/badge/React native-316192?style=for-the-badge&logo=React&logoColor=white" style="margin-bottom: 10px;">
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-0080FF?&style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 10px;">
-    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-ff8200?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 10px;">
-    <img align="center" alt="mongo db" src="https://img.shields.io/badge/mongo db-239120?style=for-the-badge&logo=mongodb&logoColor=white" style="margin-bottom: 10px;">
-    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="margin-bottom: 10px;">
-</div>
-<div style="display: flex;flex-wrap:wrap;gap:10px">
-    <img  align="center" alt="java" src="https://img.shields.io/badge/Java-ca0000?style=for-the-badge&logo=oracle&logoColor=white" style="margin-bottom: 10px;">
-    <img  align="center" alt="spring boot" src="https://img.shields.io/badge/spring boot-239120?style=for-the-badge&logo=spring&logoColor=white" style="margin-bottom: 10px;">
-    <img align="center" alt="Java Script" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-bottom: 10px;">
-    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-316192?style=for-the-badge&logo=TypeScript&logoColor=white" style="margin-bottom: 10px;">
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-316192?style=for-the-badge&logo=React&logoColor=white" style="margin-bottom: 10px;">
-    <img align="center" alt="React native" src="https://img.shields.io/badge/React native-316192?style=for-the-badge&logo=React&logoColor=white" style="margin-bottom: 10px;">
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-0080FF?&style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 10px;">
-    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-ff8200?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 10px;">
-    <img align="center" alt="mongo db" src="https://img.shields.io/badge/mongo db-239120?style=for-the-badge&logo=mongodb&logoColor=white" style="margin-bottom: 10px;">
-    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="margin-bottom: 10px;">
+    <img  align="center" alt="java" src="https://img.shields.io/badge/Java-ca0000?style=for-the-badge&logo=oracle&logoColor=white">
+    <img  align="center" alt="spring boot" src="https://img.shields.io/badge/spring boot-239120?style=for-the-badge&logo=spring&logoColor=white" >
+    <img align="center" alt="Java Script" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
+    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-316192?style=for-the-badge&logo=TypeScript&logoColor=white">
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-316192?style=for-the-badge&logo=React&logoColor=white">
+    <img align="center" alt="React native" src="https://img.shields.io/badge/React native-316192?style=for-the-badge&logo=React&logoColor=white" >
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-0080FF?&style=for-the-badge&logo=css3&logoColor=white" >
+    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-ff8200?style=for-the-badge&logo=html5&logoColor=white" >
+    <img align="center" alt="mongo db" src="https://img.shields.io/badge/mongo db-239120?style=for-the-badge&logo=mongodb&logoColor=white" >
+    </br>
+    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
 </div>
 
 </br>
 
 #### Tecnologias que Quero Muito Aprender :brain:
 
-<div style="display: inline_block;gap:5px">
+<div style="display: flex;gap: 10px">
     <img align="center" alt="rust" src="https://img.shields.io/badge/rust-F7DF1E?style=for-the-badge&logo=rust&logoColor=black">
     <img align="center" alt="GO" src="https://img.shields.io/badge/go-316192?style=for-the-badge&logo=go&logoColor=white">
     <img align="center" alt="Amazon Web Services" src="https://img.shields.io/badge/aws-316192?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white">
