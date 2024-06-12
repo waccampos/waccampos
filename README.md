@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Olá meu nome é Willams Campos 👋🏿
+### Olá meu nome é Willams Campos 
 # Sobre mim
 - Gosto de estudar coisas novas
 - Dedicado nos projetos
 
 
 ## Redes Sociais
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djordan-gabriel-52a223262/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willams-campos-05aaa11bb/)
 
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=waccampos&theme=blue-green)]()
 
