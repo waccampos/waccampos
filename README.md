@@ -30,7 +30,7 @@ Estou sempre em busca de novos conhecimentos e habilidades, com o objetivo de co
     <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="django" src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white">
-    <img align="center" alt="firebase" src="https://img.shields.io/badge/firebase-239120?style=for-the-badge&logo=firebase&logoColor=white">
+    <img align="center" alt="firebase" src="https://img.shields.io/badge/firebase-b20000?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
 </br>
