@@ -47,7 +47,6 @@ Estou sempre em busca de novos conhecimentos e habilidades, com o objetivo de co
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-0080FF?&style=for-the-badge&logo=css3&logoColor=white" >
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-ff8200?style=for-the-badge&logo=html5&logoColor=white" >
     <img align="center" alt="mongo db" src="https://img.shields.io/badge/mongo db-239120?style=for-the-badge&logo=mongodb&logoColor=white" >
-    </br>
     <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
 </div>
 
