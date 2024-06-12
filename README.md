@@ -37,7 +37,7 @@ Estou sempre em busca de novos conhecimentos e habilidades, com o objetivo de co
 
 #### Tecnologias que eu amo :heart:
 
-<div style="display: flex;flex-wrap:wrap;gap:15px">
+<div style="display: flex;flex-wrap:wrap;gap:10px">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Java-ca0000?style=for-the-badge&logo=oracle&logoColor=white">
     <img align="center" alt="spring boot" src="https://img.shields.io/badge/spring boot-239120?style=for-the-badge&logo=spring&logoColor=white">
     <img align="center" alt="Java Script" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -45,6 +45,7 @@ Estou sempre em busca de novos conhecimentos e habilidades, com o objetivo de co
     <img align="center" alt="React" src="https://img.shields.io/badge/React-316192?style=for-the-badge&logo=React&logoColor=white">
     <img align="center" alt="React native" src="https://img.shields.io/badge/React native-316192?style=for-the-badge&logo=React&logoColor=white">
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-0080FF?&style=for-the-badge&logo=css3&logoColor=white">
+    </br>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-ff8200?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="mongo db" src="https://img.shields.io/badge/mongo db-239120?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
