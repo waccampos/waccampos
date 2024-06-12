@@ -2,7 +2,7 @@
 
 #### Sobre Mim
 
-Profissional de desenvolvimento de software com quase 1 ano de experiência na área. Durante minha trajetória profissional, tive contato com diversas tecnologias, como Java, Python, PostgreSQL e JavaScript/TypeScript para back-end. No front-end, já trabalhei com JavaScript/TypeScript, HTML e CSS.
+Profissional de desenvolvimento de software com quase 1 ano de experiência na área. Durante minha trajetória profissional, tive contato com diversas tecnologias, como **Java**, **Python**, **PostgreSQL** e **JavaScript/TypeScript** para back-end. No front-end, já trabalhei com **JavaScript/TypeScript**, **HTML** e **CSS**.
 Os frameworks e bibliotecas que explorei durante esse período incluem:
 **Electron**: utilizado para criar aplicações desktop.
 **React Native**: usado para desenvolver aplicações móveis.
