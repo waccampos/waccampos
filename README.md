@@ -23,7 +23,6 @@ Estou sempre em busca de novos conhecimentos e habilidades, com o objetivo de co
     <a href="#">
         <img src="https://streak-stats.demolab.com?user=waccampos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3">
     </a>
-    
 </div>
 
 #### Tecnologias que Eu Gosto :thumbsup:
