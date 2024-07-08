@@ -20,6 +20,9 @@ Estou sempre em busca de novos conhecimentos e habilidades, com o objetivo de co
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waccampos&theme=dark" alt="Stats">
     </a>
+    <a href="#">
+        <img src="https://streak-stats.demolab.com?user=waccampos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3">
+    </a>
     
 </div>
 
