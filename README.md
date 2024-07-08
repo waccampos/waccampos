@@ -16,7 +16,7 @@ Estou sempre em busca de novos conhecimentos e habilidades, com o objetivo de co
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willams-campos-05aaa11bb/) [![Outlook](https://img.shields.io/badge/email-0077B5?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:willamscampos@outlook.com)
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px;justify-content:center;align-items:center">
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waccampos&theme=dark" alt="Stats">
     </a>
