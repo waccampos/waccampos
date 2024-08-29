@@ -20,7 +20,6 @@ Estou sempre em busca de novos conhecimentos e habilidades, com o objetivo de co
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waccampos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=waccampos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waccampos&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 #### Tecnologias que Eu Gosto :thumbsup:
@@ -55,7 +54,6 @@ Estou sempre em busca de novos conhecimentos e habilidades, com o objetivo de co
 #### Tecnologias que Quero Muito Aprender :brain:
 
 <div style="display: flex;gap: 10px">
-    <img align="center" alt="rust" src="https://img.shields.io/badge/rust-F7DF1E?style=for-the-badge&logo=rust&logoColor=black">
     <img align="center" alt="GO" src="https://img.shields.io/badge/go-316192?style=for-the-badge&logo=go&logoColor=white">
     <img align="center" alt="Amazon Web Services" src="https://img.shields.io/badge/aws-316192?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white">
     <img align="center" alt="redis" src="https://img.shields.io/badge/redis-FF0000?style=for-the-badge&logo=redis&logoColor=white">
