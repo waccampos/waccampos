@@ -15,11 +15,11 @@ Estou sempre em busca de novos conhecimentos e habilidades, com o objetivo de co
 #### Redes Sociais
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willams-campos-05aaa11bb/) [![Outlook](https://img.shields.io/badge/email-0077B5?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:willamscampos@outlook.com)
-![waccampos GitHub stats](https://github-readme-stats.vercel.app/api?username=waccampos&show_icons=true&theme=synthwave)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waccampos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=waccampos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=waccampos&show_icons=true&theme=dracula">
 </div>
 
 #### Tecnologias que Eu Gosto :thumbsup:
