@@ -29,5 +29,5 @@
 
 ## 📫 Entre em contato comigo!
 
-- **E-mail:** willams.dev@gmail.com
+- **E-mail:** willamscampos@outlook.com
 - **LinkedIn:** https://www.linkedin.com/in/willams-campos-05aaa11bb
