@@ -16,7 +16,7 @@
 ### 💻 Tecnologias que domino:
 
 - **Linguagens:** Java, Python, JavaScript, TypeScript
-- **Frameworks:** React, Next.js, Nest.js, React Native, Django, Spring Boot
+- **Frameworks:** React, Next.js, React Native, Nest.js, Django, Spring Boot
 - **Bancos de dados:** PostgreSQL, MySQL, MongoDB
 - **Ferramentas:** Git, Docker, GCP, Vercel
 
