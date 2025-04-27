@@ -9,7 +9,7 @@
 
 - **Apaixonado por tecnologia:** Comecei minha jornada aos 16 anos com um estágio no TRF5 e me apaixonei pelo desenvolvimento de software ao explorar mais sobre o tema.
 - **Hobbies:** Futebol, natação e programação de aplicativos no tempo livre.
-- **Objetivo:** Me estabilizar em uma empresa onde possa crescer junto com a equipe.
+- **Objetivo:** Evoluir continuamente como desenvolvedor e como pessoa, aprendendo novas tecnologias, enfrentando novos desafios e contribuindo com projetos que gerem impacto positivo.
 
 ## 🚀 Tecnologias e Ferramentas
 
