@@ -2,7 +2,7 @@
 
 🌍 **De Recife, morando em Olinda, PE**  
 💻 **Desenvolvedor Full-stack com mais de 2 anos de experiência**  
-🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
+🎓 **Formado em Análise e Desenvolvimento de Sistemas e cursando Ciência da Computação**  
 🏆 **Sempre em busca de aprender e contribuir com soluções inovadoras**
 
 ## 🏆 Sobre mim
