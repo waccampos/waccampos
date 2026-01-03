@@ -22,10 +22,10 @@
 
 ### 🌱 Tecnologias que quero aprender:
 
-- **Linguagens:** Rust, GO, C
-- **Frameworks:** Astro, Angular, Adonis
+- **Linguagens:** Rust e C
+- **Frameworks:** Angular e Adonis
 - **Bancos de dados:** Redis, GraphQL
-- **Ferramentas:** RabbitMQ, Kubernetes
+- **Ferramentas:** Kubernetes
 
 ## 📫 Entre em contato comigo!
 
