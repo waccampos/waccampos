@@ -1,7 +1,7 @@
 # Olá, Meu Nome é Willams Campos 👋
 
 🌍 **De Recife, morando em Olinda, PE**  
-💻 **Desenvolvedor Full-stack com mais de 2 anos de experiência**  
+💻 **Desenvolvedor Full-stack com cerca de 3 anos de experiência**  
 🎓 **Formado em Análise e Desenvolvimento de Sistemas e cursando Ciência da Computação**  
 🏆 **Sempre em busca de aprender e contribuir com soluções inovadoras**
 
@@ -15,7 +15,7 @@
 
 ### 💻 Tecnologias que domino:
 
-- **Linguagens:** Java, Python, JavaScript, TypeScript
+- **Linguagens:** Java, Python, JavaScript, TypeScript e Golang
 - **Frameworks:** React, React Native, Next.js, Nest.js, Django, Spring Boot
 - **Bancos de dados:** PostgreSQL, MySQL, MongoDB
 - **Ferramentas:** Git, Docker, GCP, Vercel
