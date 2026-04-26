@@ -17,14 +17,14 @@
 
 - **Linguagens:** Java, Python, JavaScript, TypeScript e Golang
 - **Frameworks:** React, React Native, Next.js, Nest.js, Django, Spring Boot
-- **Bancos de dados:** PostgreSQL, MySQL, MongoDB
+- **Bancos de dados:** PostgreSQL, MySQL, MongoDB e Redis
 - **Ferramentas:** Git, Docker, GCP, Vercel
 
 ### 🌱 Tecnologias que quero aprender:
 
 - **Linguagens:** Rust e C
 - **Frameworks:** Angular e Adonis
-- **Bancos de dados:** Redis, GraphQL
+- **Bancos de dados:** GraphQL
 - **Ferramentas:** Kubernetes
 
 ## 📫 Entre em contato comigo!
